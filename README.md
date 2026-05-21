@@ -7,6 +7,8 @@ Currently, studying at PUCRS, Brazil.
 **🌐 Contact:** <br>
 <a href="https://www.linkedin.com/in/eduardo-dalla-porta/?locale=en-US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="mailto:epdallaporta@gmail.com"></a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+##
+
 #### Data Analysis and Power BI 
 • <a href="https://github.com/eduardodallaporta/climate-analysis-rs-brazil" target="_blank">Climate-analysis-rs-brazil</a> project for Rio Grande do Sul, Brazil using Python (Pandas and Matplotlib), including:  
 - Cleaning and processing historical data  
@@ -46,3 +48,4 @@ real-world infrastructure scenarios.
 ## Languages
 - Native Portuguese
 - Professional English level
+- Spanish
