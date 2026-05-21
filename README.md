@@ -37,8 +37,8 @@ real-world infrastructure scenarios.
 - Python
 - SQL
 - Power BI
-- AWS
 - Linux
+- AWS
 
 ## Certifications
 - AWS Cloud Practitioner
