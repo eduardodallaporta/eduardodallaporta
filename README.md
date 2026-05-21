@@ -38,3 +38,11 @@ real-world infrastructure scenarios.
 - SQL
 - Power BI
 - AWS
+- Linux
+
+## Certifications
+- AWS Cloud Practitioner
+
+## Languages
+- Native Portuguese
+- Professional English level
