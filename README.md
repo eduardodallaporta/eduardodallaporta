@@ -4,7 +4,7 @@ Student passionate about data, with a dedicated space for personal projects, stu
 
 Currently, studying at PUCRS, Brazil.
 
-**✉️ Contact:** <br>
+**🌐 Contact:** <br>
 <a href="https://www.linkedin.com/in/eduardo-dalla-porta/?locale=en-US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="mailto:epdallaporta@gmail.com"></a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 #### Data Analysis and Power BI 
